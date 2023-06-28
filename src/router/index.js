@@ -1,7 +1,6 @@
 import Vue from "vue"
 import App from '../LandingPage.vue'
 import DK from '../components/About.vue'
-import ATtable from '../components/ATtable.vue'
 import VueRouter from 'vue-router'
 
 Vue.use(VueRouter)
@@ -24,11 +23,6 @@ const routes = [
         path:'/about',
         name:'About',
         component: DK
-    },
-    {
-        path:'/table',
-        name:'Table',
-        component: ATtable
     }
 ]
 
