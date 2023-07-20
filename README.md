@@ -1,5 +1,8 @@
 # w3_theband
 
+## Project Detail
+Just some playing around with VueJs frontend
+
 ## Project setup
 ```
 npm install
